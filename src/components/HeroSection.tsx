@@ -47,7 +47,7 @@ const HeroSection = () => {
                 {/* Clean Image with masked bottom fade to reveal background */}
                 <div className="w-[420px] h-[420px] lg:w-[560px] lg:h-[660px] rounded-3xl overflow-hidden relative">
                   <img 
-                    src="/src/assets/images/ummarkka.png" 
+                    src="https://i.postimg.cc/XJ6S1h5H/ummarkka-1.png" 
                     alt="Brand Glow Up 21 Expert" 
                     className="w-full h-full object-contain"
                     style={{ WebkitMaskImage: 'linear-gradient(to bottom, black 72%, rgba(0,0,0,0.6) 86%, transparent 100%)', maskImage: 'linear-gradient(to bottom, black 72%, rgba(0,0,0,0.6) 86%, transparent 100%)' }}
